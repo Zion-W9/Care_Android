@@ -1,5 +1,7 @@
 # Care: A Comprehensive Diabetes Management App
 
+This was my first journey into Android development, and the project leveraged open source as its foundation. I tried to incorporate my background in artificial intelligence.
+
 ## Overview
 
 **Care** is a cutting-edge Android application tailored for individuals managing diabetes. Built on a foundation of open-source technology and integrated with OpenAI's powerful GPT-4 model, Care offers an innovative approach to diabetes care. This app is designed to empower users with diabetes to accurately monitor and manage their health through a user-friendly interface and a host of essential features.
